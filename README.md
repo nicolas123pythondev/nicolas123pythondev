@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Nicolas!
 
-<!--
-**nicolas123pythondev/nicolas123pythondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Estudante de programação
+- 🐍 Python como linguagem principal
+- ⚡ Gosto de criar jogos e automações
+- 🌱 Aprendendo também PowerShell e HTML
 
-Here are some ideas to get you started:
+🛠️ Tecnologias que uso
+- Python (subprocess, manipulação de arquivos, dicionários, jogos de texto)
+- PowerShell
+- HTML/CSS (iniciante)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Projetos
+- Sistema de batalha estilo RPG
+- Jogo inspirado em Pokémon em Python
+- Experimentos com subprocess e automação
+
+---
+⭐ Se curtiu algum projeto, não esquece de deixar uma estrela!
